@@ -28,7 +28,7 @@ Clone this repository and open the file in google chrome. You can `open canvas.h
 ```
 
 - First lets add a border so we can see what we are working on.
-- In our canvas.js file there is a function called drawBorder.  
+- In our canvas.js file there is a function called drawBorder.
 - You can uncomment each line in the js file as you go through the intro.
 
 step 1: Find our canvas. We will use our ID given to the canvas to locate it.
@@ -267,3 +267,6 @@ function drawBorder(){
 ## Stretch
 - Write a function that generates a random hexadecimal color, and use that for our row colors
 - Write an interval function that adds a row each interval, counting up to 14, the canvas would start empty, and then each interval it would paint one row of the fibonacci sequence, while keeping the previously painted rows.
+
+
+
