@@ -1,3 +1,8 @@
+## Breakout Group with Zach 9/21/15
+
+
+
+
 ## Intro to Canvas
 
 The goal of this exercise is to create and use functions to paint on a canvas.
